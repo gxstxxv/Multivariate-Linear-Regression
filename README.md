@@ -19,7 +19,7 @@ Shows the synthetic data points distributed in 3D space with two features ($x_1$
 
 ### 2. Cost Function Progress
 
-![figure_2](https://github.com/gxstxxv/Multivariate-Lineare-Regression/blob/main/plots/Figure_2.png)<br>
+![figure_2](https://github.com/gxstxxv/Multivariate-Lineare-Regression/blob/main/plots/Figure_2_.png)<br>
 Displays the cost reduction over iterations during gradient descent optimization.
 
 ### 3. Final Model Evaluation
