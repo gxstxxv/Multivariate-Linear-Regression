@@ -4,10 +4,10 @@ A simple implementation of multivariate linear regression using gradient descent
 
 ## Contents
 
-1. **Feature Matrix Creation**: Generates random feature vectors with multiple variables (x₁, x₂)
-2. **Target Generation**: Creates synthetic data with linear relationship y = θ₀ + θ₁x₁ + θ₂x₂ + noise
+1. **Feature Matrix Creation**: Generates random feature vectors with multiple variables ($x_1$, $x_2$)
+2. **Target Generation**: Creates synthetic data with linear relationship $y = \theta_0 + \theta_1 x_1 + \theta_2 x_2 + noise$
 3. **Cost Function**: Calculates Mean Squared Error between predictions and true values
-4. **Gradient Descent**: Iteratively finds optimal parameters θ₀, θ₁, and θ₂
+4. **Gradient Descent**: Iteratively finds optimal parameters $\theta_0$, $\theta_1$, and $\theta_2$
 5. **3D Visualization**: Shows data points and fitted plane in 3D space
 
 ## Generated Plots
@@ -15,7 +15,7 @@ A simple implementation of multivariate linear regression using gradient descent
 ### 1. 3D Data Scatter Plot
 
 ![figure_1](https://github.com/gxstxxv/Multivariate-Lineare-Regression/blob/main/plots/Figure_1.png)<br>
-Shows the synthetic data points distributed in 3D space with two features ($x_1$, x₂) and target values (y).
+Shows the synthetic data points distributed in 3D space with two features ($x_1$, $x_2$) and target values ($y$).
 
 ### 2. Cost Function Progress
 
