@@ -14,7 +14,7 @@ A simple implementation of multivariate linear regression using gradient descent
 
 ### 1. 3D Data Scatter Plot
 
-![figure_1](https://github.com/gxstxxv/Multivariate-Lineare-Regression/blob/main/plots/Figure_1.png)
+![figure_1](https://github.com/gxstxxv/Multivariate-Lineare-Regression/blob/main/plots/Figure_1.png)<br>
 Shows the synthetic data points distributed in 3D space with two features (x₁, x₂) and target values (y).
 
 ### 2. Cost Function Progress
