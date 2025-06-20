@@ -116,8 +116,8 @@ def gradient_descent(
         cost_function: python function for computing the cost
 
     Returns:
-        history_cost: cost after each iteration
-        history_theta: Updated theta values after each iteration
+        costs: cost after each iteration
+        thetas: Updated theta values after each iteration
     """
     costs = []
     thetas = []
